@@ -1,12 +1,12 @@
 .navbar{
-  color: red;
+  color: var(--negro);
   display: flex;
   width: 100%;
   flex-direction: row;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   padding: 0 2rem;
-  background-color: orange;
+  background-color: var(--nextui-colors-gray900);
 }
 
 

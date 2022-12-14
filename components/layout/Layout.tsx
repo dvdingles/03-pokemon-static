@@ -18,8 +18,11 @@ export const Layout : /* FC<Props> */ FC<PropsWithChildren<Props>> = ({ children
         <meta name='description' content={`cajas de cartón echas por ${ title }`} />
         <meta name='Keywords' content={`carton, auxiliar, diseñado por ${ title }`} />
       </Head>
+
+
       <Navbar />
-      {/* Navbar */}
+
+      
 
       <main className={styles.main}>
         { children }

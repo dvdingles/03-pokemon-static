@@ -10,11 +10,13 @@ export default function Home() {
           <div className={styles.prueba}>
             Hola
           </div>
+
           <div className={styles.david}>
             <Button color={'gradient'}>
               Hola Mundo
             </Button>
           </div>
+          
         </ Layout>
         
       </>

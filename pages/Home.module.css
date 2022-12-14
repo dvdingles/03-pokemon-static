@@ -4,6 +4,7 @@
   font-size: 4rem;
   padding: 4rem;
   font-family: var(--tipo-erasdemi);
+  border: solid 1px white;
 }
 
 .david{
