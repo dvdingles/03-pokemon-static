@@ -1,0 +1,7 @@
+.prueba{
+  background-color: silver;
+  color:red;
+  font-size: 4rem;
+  padding: 4rem;
+  font-family: var(--tipo-erasdemi);
+}
