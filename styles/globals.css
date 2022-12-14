@@ -159,5 +159,5 @@ Con este reset vamos a resolver:
     /* opcional */ font-smooth: always;
     /* opcional */ -webkit-font-smoothing: antialiased;
     /* opcional */ -moz-osx-font-smoothing: grayscale;
-    background-color: silver;
+    /* background-color: silver; */
   }
