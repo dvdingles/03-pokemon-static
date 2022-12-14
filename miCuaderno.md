@@ -23,6 +23,6 @@ En el archivo .eslint.json hay que escribir:
 
 > para matar la terminal **[Alt + Supr]**
 
-
+PARA BORRAR
 
 
