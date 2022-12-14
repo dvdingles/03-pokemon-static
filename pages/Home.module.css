@@ -5,3 +5,14 @@
   padding: 4rem;
   font-family: var(--tipo-erasdemi);
 }
+
+.david{
+  width: 777px;
+  background-color: orange;
+  height: 444px;
+  transition: all 1s ease;
+}
+/* .david:hover{
+  background-color: lightblue;
+  transform: rotateY(180deg);
+} */

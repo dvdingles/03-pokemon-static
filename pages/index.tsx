@@ -1,3 +1,4 @@
+import {Button} from '@nextui-org/react'
 import styles from './Home.module.css'
 
 export default function Home() {
@@ -6,6 +7,12 @@ export default function Home() {
         <div className={styles.prueba}>
           Hola
         </div>
+        <div className={styles.david}>
+          <Button color={'gradient'}>
+            Hola Mundo
+          </Button>
+        </div>
       </>
     )
 }
+
