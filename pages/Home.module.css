@@ -13,7 +13,12 @@
   height: 444px;
   transition: all 1s ease;
 }
-.david:hover{
+/* .david:hover{
   background-color: lightblue;
   transform: rotateY(180deg);
+} */
+
+.nave:hover{
+  transition: all 1s ease;
+  transform: scale(88%);
 }
